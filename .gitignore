@@ -1,0 +1,9 @@
+*.ilk
+*.exe
+*.obj
+*.pdb
+*.pasq
+22-01-03.cpp
+Test.cpp
+vc140.pdb
+*.json
