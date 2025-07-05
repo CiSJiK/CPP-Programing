@@ -7,3 +7,7 @@
 Test.cpp
 vc140.pdb
 *.json
+*.o
+/build
+*.pch
+*.out
